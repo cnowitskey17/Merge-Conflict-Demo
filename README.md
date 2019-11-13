@@ -2,4 +2,4 @@
  
 A simple Demo by Connor Nowitskey for DMIT 2018
 
-Going for merge conflict round 2
+Edited from browser for merge conflict 2
