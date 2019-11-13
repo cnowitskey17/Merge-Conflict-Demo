@@ -1,3 +1,3 @@
 # Merge Conflict Demo
  
-By Connor Nowitskey
+A simple Demo by Connor Nowitskey for DMIT 2018
